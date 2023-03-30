@@ -456,7 +456,8 @@ if __name__ == '__main__':
     loop.create_task(main())
     loop.create_task(receive_msg())
     #loop.set_exception_handler(handle_exception)
-    loop.create_task(bot.run('OTgzODI1MTkzNDE3OTkwMTg0.G4nsGR.gWIgHStbNCvDY-Yrg42nxVKyxmOXOAYAIJeW1M'))
+    tokens_dict = literal_eval(open("../tokens.txt", "r").read())
+    loop.create_task(bot.run(tokens_dict["public_d9_bot"]))
     loop.run_forever()
 
 '''
