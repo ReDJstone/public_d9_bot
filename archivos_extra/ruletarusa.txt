@@ -1,0 +1,3 @@
+CLICK! Y vive para contarlo. $addpoints("$user","5","5","Ha ganado 5 $currencyname! Ahora tiene $newbalance($user)!","Pero nadie tiene 5 puntos para darle! LUL")
+CLICK! Y vive para contarlo. $addpoints("$user","5","5","Ha ganado 5 $currencyname! Ahora tiene $newbalance($user)!","Pero nadie tiene 5 puntos para darle! LUL")
+$removepoints("$user","30","30","BANG! HAS MUERTO! 30 PUNTOS MENOS! Ahora tienes $newbalance($user)","BANG! Y SE QUEDA SIN PUNTOS!","true")

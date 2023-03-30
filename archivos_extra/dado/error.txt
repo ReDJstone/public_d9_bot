@@ -1,0 +1,1 @@
+$user, el comando se usa "!dado [numero de caras]"! (Maximo 2.147.483.647, 1 mas no funciona, da 0 automaticamente)

@@ -1,0 +1,2 @@
+$username apuesta $num1 $currencyname en la ruleta... y los pierde!!
+$username apuesta $num1 $currencyname en la ruleta... y gana!!

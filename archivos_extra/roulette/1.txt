@@ -1,0 +1,2 @@
+$removepoints("$userid","0","0","$username apuesta $num1 $currencyname en la ruleta... y los pierde!! Ahora tiene $newbalance($userid) $currencyname!!","ERROR quitado","false")
+$addpoints("$userid","$math[$num1*2]","$math[$num1*2]","$username apuesta $num1 $currencyname en la ruleta... y gana!! Ahora tiene $newbalance($userid) $currencyname!!","ERROR añadido")

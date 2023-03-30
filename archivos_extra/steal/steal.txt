@@ -1,0 +1,2 @@
+$givepoints("$userid","$targetid","$randnum(20,100)","$username tried to steal some $currencyname from $targetname but got rekt and $targetname stole $value $currencyname from $username instead!","$username tried to steal some $currencyname from $targetname but failed","false")
+$givepoints("$targetid","$userid","$randnum(20,100)","$username managed to steal $value $currencyname from $targetname.","$username tried to steal some $currencyname from $targetname but failed","false")

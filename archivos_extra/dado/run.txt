@@ -1,0 +1,1 @@
+$user ha tirado un dado de $num1 caras y... ha salido un $randnum(1,$num1)!

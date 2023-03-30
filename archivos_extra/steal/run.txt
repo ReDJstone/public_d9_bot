@@ -1,0 +1,3 @@
+$username, to use steal do !steal <username> where you pick who you want to steal from!
+$username, we couldn't find $targetname in the currency database!
+$readrandline(services/games/steal/steal.txt)
